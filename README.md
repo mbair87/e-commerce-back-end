@@ -17,7 +17,8 @@ start server and test routes using insomnia
 The license is None. 
 ## Languages
 Laguages used: JavaScript,Node.
-## Tests
+## Walkthrough
+Please see walkthrough video at https://youtu.be/kWiWhoYkAGQ
 
 ## Questions
 Please contact n with any questions.
